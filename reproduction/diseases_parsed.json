@@ -1,0 +1,232 @@
+{
+  "anxiety": {
+    "stress_score": 0.85,
+    "sleep_disruption": 0.8,
+    "mood_score": 0.25,
+    "relaxation_need": 0.9,
+    "emotional_stability_need": 0.88,
+    "focus_need": 0.7,
+    "energy_level": 0.3,
+    "pain_level": 0.4
+  },
+  "depression": {
+    "stress_score": 0.7,
+    "sleep_disruption": 0.85,
+    "mood_score": 0.15,
+    "relaxation_need": 0.85,
+    "emotional_stability_need": 0.9,
+    "focus_need": 0.65,
+    "energy_level": 0.2,
+    "pain_level": 0.5
+  },
+  "insomnia": {
+    "stress_score": 0.6,
+    "sleep_disruption": 0.95,
+    "mood_score": 0.45,
+    "relaxation_need": 0.9,
+    "emotional_stability_need": 0.75,
+    "focus_need": 0.6,
+    "energy_level": 0.3,
+    "pain_level": 0.3
+  },
+  "stress": {
+    "stress_score": 0.95,
+    "sleep_disruption": 0.78,
+    "mood_score": 0.3,
+    "relaxation_need": 0.95,
+    "emotional_stability_need": 0.8,
+    "focus_need": 0.75,
+    "energy_level": 0.45,
+    "pain_level": 0.5
+  },
+  "hypertension": {
+    "stress_score": 0.88,
+    "sleep_disruption": 0.7,
+    "mood_score": 0.4,
+    "relaxation_need": 0.88,
+    "emotional_stability_need": 0.75,
+    "focus_need": 0.65,
+    "energy_level": 0.5,
+    "pain_level": 0.65
+  },
+  "ptsd": {
+    "stress_score": 0.9,
+    "sleep_disruption": 0.88,
+    "mood_score": 0.2,
+    "relaxation_need": 0.92,
+    "emotional_stability_need": 0.95,
+    "focus_need": 0.68,
+    "energy_level": 0.25,
+    "pain_level": 0.6
+  },
+  "adhd": {
+    "stress_score": 0.72,
+    "sleep_disruption": 0.65,
+    "mood_score": 0.4,
+    "relaxation_need": 0.75,
+    "emotional_stability_need": 0.82,
+    "focus_need": 0.9,
+    "energy_level": 0.55,
+    "pain_level": 0.3
+  },
+  "ocd": {
+    "stress_score": 0.8,
+    "sleep_disruption": 0.75,
+    "mood_score": 0.35,
+    "relaxation_need": 0.85,
+    "emotional_stability_need": 0.88,
+    "focus_need": 0.8,
+    "energy_level": 0.45,
+    "pain_level": 0.45
+  },
+  "panic disorder": {
+    "stress_score": 0.88,
+    "sleep_disruption": 0.82,
+    "mood_score": 0.22,
+    "relaxation_need": 0.9,
+    "emotional_stability_need": 0.9,
+    "focus_need": 0.65,
+    "energy_level": 0.28,
+    "pain_level": 0.55
+  },
+  "chronic pain": {
+    "stress_score": 0.75,
+    "sleep_disruption": 0.78,
+    "mood_score": 0.35,
+    "relaxation_need": 0.85,
+    "emotional_stability_need": 0.8,
+    "focus_need": 0.65,
+    "energy_level": 0.35,
+    "pain_level": 0.85
+  },
+  "migraine": {
+    "stress_score": 0.8,
+    "sleep_disruption": 0.85,
+    "mood_score": 0.38,
+    "relaxation_need": 0.82,
+    "emotional_stability_need": 0.72,
+    "focus_need": 0.6,
+    "energy_level": 0.4,
+    "pain_level": 0.8
+  },
+  "chronic fatigue": {
+    "stress_score": 0.65,
+    "sleep_disruption": 0.72,
+    "mood_score": 0.35,
+    "relaxation_need": 0.8,
+    "emotional_stability_need": 0.75,
+    "focus_need": 0.68,
+    "energy_level": 0.15,
+    "pain_level": 0.55
+  },
+  "bipolar disorder": {
+    "stress_score": 0.75,
+    "sleep_disruption": 0.9,
+    "mood_score": 0.3,
+    "relaxation_need": 0.8,
+    "emotional_stability_need": 0.92,
+    "focus_need": 0.72,
+    "energy_level": 0.4,
+    "pain_level": 0.45
+  },
+  "eating disorder": {
+    "stress_score": 0.78,
+    "sleep_disruption": 0.72,
+    "mood_score": 0.25,
+    "relaxation_need": 0.82,
+    "emotional_stability_need": 0.88,
+    "focus_need": 0.68,
+    "energy_level": 0.35,
+    "pain_level": 0.5
+  },
+  "addiction": {
+    "stress_score": 0.82,
+    "sleep_disruption": 0.8,
+    "mood_score": 0.3,
+    "relaxation_need": 0.78,
+    "emotional_stability_need": 0.85,
+    "focus_need": 0.72,
+    "energy_level": 0.4,
+    "pain_level": 0.45
+  },
+  "heart disease": {
+    "stress_score": 0.85,
+    "sleep_disruption": 0.65,
+    "mood_score": 0.42,
+    "relaxation_need": 0.88,
+    "emotional_stability_need": 0.78,
+    "focus_need": 0.68,
+    "energy_level": 0.45,
+    "pain_level": 0.7
+  },
+  "dementia": {
+    "stress_score": 0.45,
+    "sleep_disruption": 0.88,
+    "mood_score": 0.4,
+    "relaxation_need": 0.65,
+    "emotional_stability_need": 0.7,
+    "focus_need": 0.55,
+    "energy_level": 0.25,
+    "pain_level": 0.4
+  },
+  "autism": {
+    "stress_score": 0.55,
+    "sleep_disruption": 0.6,
+    "mood_score": 0.5,
+    "relaxation_need": 0.7,
+    "emotional_stability_need": 0.85,
+    "focus_need": 0.85,
+    "energy_level": 0.5,
+    "pain_level": 0.25
+  },
+  "ibs": {
+    "stress_score": 0.72,
+    "sleep_disruption": 0.68,
+    "mood_score": 0.4,
+    "relaxation_need": 0.8,
+    "emotional_stability_need": 0.72,
+    "focus_need": 0.62,
+    "energy_level": 0.45,
+    "pain_level": 0.7
+  },
+  "cancer": {
+    "stress_score": 0.82,
+    "sleep_disruption": 0.85,
+    "mood_score": 0.25,
+    "relaxation_need": 0.85,
+    "emotional_stability_need": 0.88,
+    "focus_need": 0.7,
+    "energy_level": 0.3,
+    "pain_level": 0.82
+  },
+  "loneliness": {
+    "stress_score": 0.65,
+    "sleep_disruption": 0.68,
+    "mood_score": 0.28,
+    "relaxation_need": 0.78,
+    "emotional_stability_need": 0.82,
+    "focus_need": 0.62,
+    "energy_level": 0.35,
+    "pain_level": 0.4
+  },
+  "grief": {
+    "stress_score": 0.78,
+    "sleep_disruption": 0.82,
+    "mood_score": 0.18,
+    "relaxation_need": 0.82,
+    "emotional_stability_need": 0.88,
+    "focus_need": 0.55,
+    "energy_level": 0.25,
+    "pain_level": 0.5
+  },
+  "general wellness": {
+    "stress_score": 0.4,
+    "sleep_disruption": 0.35,
+    "mood_score": 0.65,
+    "relaxation_need": 0.6,
+    "emotional_stability_need": 0.65,
+    "focus_need": 0.65,
+    "energy_level": 0.65,
+    "pain_level": 0.2
+  }
+}

@@ -1,0 +1,595 @@
+[
+  {
+    "raga_name": "Yaman",
+    "arousal_level": 0.35,
+    "valence": 0.8,
+    "stress_reduction": 0.92,
+    "sleep_induction": 0.65,
+    "pain_relief": 0.6,
+    "focus_enhancement": 0.72,
+    "emotional_stability": 0.88,
+    "therapy_evidence_score": 0.92,
+    "target_conditions": [
+      "Anxiety",
+      "Stress",
+      "Depression",
+      "Hypertension",
+      "Mood Disorder"
+    ],
+    "contraindications": [
+      "Manic episodes"
+    ]
+  },
+  {
+    "raga_name": "Darbari Kanada",
+    "arousal_level": 0.25,
+    "valence": 0.65,
+    "stress_reduction": 0.95,
+    "sleep_induction": 0.9,
+    "pain_relief": 0.72,
+    "focus_enhancement": 0.65,
+    "emotional_stability": 0.92,
+    "therapy_evidence_score": 0.9,
+    "target_conditions": [
+      "Insomnia",
+      "Hypertension",
+      "Stress",
+      "Anxiety",
+      "PTSD"
+    ],
+    "contraindications": [
+      "Acute Depression"
+    ]
+  },
+  {
+    "raga_name": "Bhairavi",
+    "arousal_level": 0.3,
+    "valence": 0.7,
+    "stress_reduction": 0.88,
+    "sleep_induction": 0.78,
+    "pain_relief": 0.8,
+    "focus_enhancement": 0.7,
+    "emotional_stability": 0.9,
+    "therapy_evidence_score": 0.91,
+    "target_conditions": [
+      "Depression",
+      "Grief",
+      "Emotional Pain",
+      "Anxiety",
+      "Spiritual Crisis"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Bageshree",
+    "arousal_level": 0.28,
+    "valence": 0.72,
+    "stress_reduction": 0.9,
+    "sleep_induction": 0.92,
+    "pain_relief": 0.7,
+    "focus_enhancement": 0.68,
+    "emotional_stability": 0.85,
+    "therapy_evidence_score": 0.87,
+    "target_conditions": [
+      "Insomnia",
+      "Anxiety",
+      "Chronic Stress",
+      "Loneliness",
+      "PTSD"
+    ],
+    "contraindications": [
+      "Severe Depression"
+    ]
+  },
+  {
+    "raga_name": "Bhairav",
+    "arousal_level": 0.4,
+    "valence": 0.68,
+    "stress_reduction": 0.85,
+    "sleep_induction": 0.55,
+    "pain_relief": 0.82,
+    "focus_enhancement": 0.8,
+    "emotional_stability": 0.85,
+    "therapy_evidence_score": 0.85,
+    "target_conditions": [
+      "Hypertension",
+      "Stress",
+      "Spiritual Disturbance",
+      "Pain",
+      "Morning Depression"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Todi",
+    "arousal_level": 0.38,
+    "valence": 0.65,
+    "stress_reduction": 0.82,
+    "sleep_induction": 0.6,
+    "pain_relief": 0.75,
+    "focus_enhancement": 0.85,
+    "emotional_stability": 0.82,
+    "therapy_evidence_score": 0.83,
+    "target_conditions": [
+      "Concentration Issues",
+      "OCD",
+      "ADHD",
+      "Stress",
+      "Cognitive Decline"
+    ],
+    "contraindications": [
+      "Acute Anxiety"
+    ]
+  },
+  {
+    "raga_name": "Kafi",
+    "arousal_level": 0.42,
+    "valence": 0.75,
+    "stress_reduction": 0.78,
+    "sleep_induction": 0.7,
+    "pain_relief": 0.65,
+    "focus_enhancement": 0.72,
+    "emotional_stability": 0.8,
+    "therapy_evidence_score": 0.82,
+    "target_conditions": [
+      "Depression",
+      "Seasonal Affective Disorder",
+      "Low Mood",
+      "Fatigue"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Bilawal",
+    "arousal_level": 0.55,
+    "valence": 0.85,
+    "stress_reduction": 0.8,
+    "sleep_induction": 0.45,
+    "pain_relief": 0.65,
+    "focus_enhancement": 0.8,
+    "emotional_stability": 0.78,
+    "therapy_evidence_score": 0.8,
+    "target_conditions": [
+      "Depression",
+      "Low Energy",
+      "Morning Fatigue",
+      "Chronic Fatigue Syndrome",
+      "Motivation Issues"
+    ],
+    "contraindications": [
+      "Insomnia"
+    ]
+  },
+  {
+    "raga_name": "Puriya Dhanashree",
+    "arousal_level": 0.32,
+    "valence": 0.7,
+    "stress_reduction": 0.88,
+    "sleep_induction": 0.82,
+    "pain_relief": 0.75,
+    "focus_enhancement": 0.72,
+    "emotional_stability": 0.88,
+    "therapy_evidence_score": 0.86,
+    "target_conditions": [
+      "Anxiety",
+      "Stress",
+      "Emotional Pain",
+      "Spiritual Disturbance",
+      "PTSD"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Shankara",
+    "arousal_level": 0.5,
+    "valence": 0.8,
+    "stress_reduction": 0.75,
+    "sleep_induction": 0.55,
+    "pain_relief": 0.7,
+    "focus_enhancement": 0.85,
+    "emotional_stability": 0.82,
+    "therapy_evidence_score": 0.8,
+    "target_conditions": [
+      "Depression",
+      "Low Self-Esteem",
+      "Lack of Motivation",
+      "ADHD",
+      "Performance Anxiety"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Ahir Bhairav",
+    "arousal_level": 0.38,
+    "valence": 0.72,
+    "stress_reduction": 0.85,
+    "sleep_induction": 0.6,
+    "pain_relief": 0.78,
+    "focus_enhancement": 0.82,
+    "emotional_stability": 0.88,
+    "therapy_evidence_score": 0.84,
+    "target_conditions": [
+      "Hypertension",
+      "Morning Anxiety",
+      "Stress",
+      "Heart Disease",
+      "Pain"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Hansadhwani",
+    "arousal_level": 0.52,
+    "valence": 0.88,
+    "stress_reduction": 0.82,
+    "sleep_induction": 0.55,
+    "pain_relief": 0.68,
+    "focus_enhancement": 0.78,
+    "emotional_stability": 0.82,
+    "therapy_evidence_score": 0.83,
+    "target_conditions": [
+      "Depression",
+      "Anxiety",
+      "Spiritual Issues",
+      "Immune Disorders",
+      "Cancer Support"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Malkaus",
+    "arousal_level": 0.22,
+    "valence": 0.6,
+    "stress_reduction": 0.92,
+    "sleep_induction": 0.95,
+    "pain_relief": 0.85,
+    "focus_enhancement": 0.6,
+    "emotional_stability": 0.88,
+    "therapy_evidence_score": 0.89,
+    "target_conditions": [
+      "Severe Insomnia",
+      "Hypertension",
+      "Chronic Pain",
+      "PTSD",
+      "Extreme Stress"
+    ],
+    "contraindications": [
+      "Depression",
+      "Grief"
+    ]
+  },
+  {
+    "raga_name": "Kedar",
+    "arousal_level": 0.42,
+    "valence": 0.75,
+    "stress_reduction": 0.85,
+    "sleep_induction": 0.75,
+    "pain_relief": 0.72,
+    "focus_enhancement": 0.75,
+    "emotional_stability": 0.85,
+    "therapy_evidence_score": 0.83,
+    "target_conditions": [
+      "Anxiety",
+      "Stress",
+      "Spiritual Disturbance",
+      "Heart Disease",
+      "Hypertension"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Bhimpalasi",
+    "arousal_level": 0.35,
+    "valence": 0.72,
+    "stress_reduction": 0.88,
+    "sleep_induction": 0.8,
+    "pain_relief": 0.78,
+    "focus_enhancement": 0.7,
+    "emotional_stability": 0.86,
+    "therapy_evidence_score": 0.85,
+    "target_conditions": [
+      "Anxiety",
+      "Stress",
+      "Hypertension",
+      "Afternoon Fatigue",
+      "IBS"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Marwa",
+    "arousal_level": 0.35,
+    "valence": 0.62,
+    "stress_reduction": 0.82,
+    "sleep_induction": 0.78,
+    "pain_relief": 0.75,
+    "focus_enhancement": 0.7,
+    "emotional_stability": 0.8,
+    "therapy_evidence_score": 0.8,
+    "target_conditions": [
+      "Existential Anxiety",
+      "Chronic Stress",
+      "Midlife Crisis",
+      "PTSD",
+      "Insomnia"
+    ],
+    "contraindications": [
+      "Acute Depression"
+    ]
+  },
+  {
+    "raga_name": "Lalit",
+    "arousal_level": 0.3,
+    "valence": 0.68,
+    "stress_reduction": 0.88,
+    "sleep_induction": 0.82,
+    "pain_relief": 0.78,
+    "focus_enhancement": 0.75,
+    "emotional_stability": 0.88,
+    "therapy_evidence_score": 0.86,
+    "target_conditions": [
+      "Severe Anxiety",
+      "Insomnia",
+      "PTSD",
+      "Hypertension",
+      "Panic Disorder"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Chandrakauns",
+    "arousal_level": 0.2,
+    "valence": 0.62,
+    "stress_reduction": 0.9,
+    "sleep_induction": 0.95,
+    "pain_relief": 0.85,
+    "focus_enhancement": 0.62,
+    "emotional_stability": 0.85,
+    "therapy_evidence_score": 0.88,
+    "target_conditions": [
+      "Severe Insomnia",
+      "Extreme Anxiety",
+      "Chronic Pain",
+      "Meditation",
+      "Hypertension"
+    ],
+    "contraindications": [
+      "Depression"
+    ]
+  },
+  {
+    "raga_name": "Kirwani",
+    "arousal_level": 0.4,
+    "valence": 0.68,
+    "stress_reduction": 0.8,
+    "sleep_induction": 0.72,
+    "pain_relief": 0.78,
+    "focus_enhancement": 0.68,
+    "emotional_stability": 0.8,
+    "therapy_evidence_score": 0.79,
+    "target_conditions": [
+      "Chronic Pain",
+      "Grief Processing",
+      "PTSD",
+      "Depression",
+      "Emotional Release"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Pahari",
+    "arousal_level": 0.55,
+    "valence": 0.85,
+    "stress_reduction": 0.8,
+    "sleep_induction": 0.5,
+    "pain_relief": 0.65,
+    "focus_enhancement": 0.75,
+    "emotional_stability": 0.8,
+    "therapy_evidence_score": 0.79,
+    "target_conditions": [
+      "Depression",
+      "Claustrophobia",
+      "Agoraphobia",
+      "Anxiety",
+      "Low Energy"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Deepak",
+    "arousal_level": 0.6,
+    "valence": 0.7,
+    "stress_reduction": 0.7,
+    "sleep_induction": 0.4,
+    "pain_relief": 0.65,
+    "focus_enhancement": 0.88,
+    "emotional_stability": 0.75,
+    "therapy_evidence_score": 0.76,
+    "target_conditions": [
+      "Depression",
+      "Low Energy",
+      "Chronic Fatigue",
+      "Anemia",
+      "Immune Deficiency"
+    ],
+    "contraindications": [
+      "Anxiety",
+      "Insomnia",
+      "Hypertension"
+    ]
+  },
+  {
+    "raga_name": "Tilang",
+    "arousal_level": 0.52,
+    "valence": 0.8,
+    "stress_reduction": 0.75,
+    "sleep_induction": 0.5,
+    "pain_relief": 0.6,
+    "focus_enhancement": 0.72,
+    "emotional_stability": 0.75,
+    "therapy_evidence_score": 0.77,
+    "target_conditions": [
+      "Depression",
+      "Social Anxiety",
+      "Autism Spectrum",
+      "Low Mood",
+      "Communication Issues"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Pilu",
+    "arousal_level": 0.45,
+    "valence": 0.72,
+    "stress_reduction": 0.78,
+    "sleep_induction": 0.68,
+    "pain_relief": 0.72,
+    "focus_enhancement": 0.65,
+    "emotional_stability": 0.78,
+    "therapy_evidence_score": 0.78,
+    "target_conditions": [
+      "Depression",
+      "Nostalgia",
+      "Grief",
+      "Emotional Numbness",
+      "Dementia"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Sohini",
+    "arousal_level": 0.35,
+    "valence": 0.7,
+    "stress_reduction": 0.8,
+    "sleep_induction": 0.78,
+    "pain_relief": 0.7,
+    "focus_enhancement": 0.68,
+    "emotional_stability": 0.78,
+    "therapy_evidence_score": 0.78,
+    "target_conditions": [
+      "Loneliness",
+      "Grief",
+      "Longing",
+      "Social Anxiety",
+      "Emotional Pain"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Megh Malhar",
+    "arousal_level": 0.45,
+    "valence": 0.65,
+    "stress_reduction": 0.82,
+    "sleep_induction": 0.75,
+    "pain_relief": 0.75,
+    "focus_enhancement": 0.68,
+    "emotional_stability": 0.8,
+    "therapy_evidence_score": 0.8,
+    "target_conditions": [
+      "Stress",
+      "Anxiety",
+      "Heat-related conditions",
+      "Irritability",
+      "IBS"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Jaijaiwanti",
+    "arousal_level": 0.48,
+    "valence": 0.78,
+    "stress_reduction": 0.8,
+    "sleep_induction": 0.68,
+    "pain_relief": 0.7,
+    "focus_enhancement": 0.68,
+    "emotional_stability": 0.82,
+    "therapy_evidence_score": 0.8,
+    "target_conditions": [
+      "Depression",
+      "Loneliness",
+      "Relationship Issues",
+      "Social Anxiety",
+      "Emotional Coldness"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Durga",
+    "arousal_level": 0.6,
+    "valence": 0.8,
+    "stress_reduction": 0.72,
+    "sleep_induction": 0.45,
+    "pain_relief": 0.68,
+    "focus_enhancement": 0.85,
+    "emotional_stability": 0.8,
+    "therapy_evidence_score": 0.79,
+    "target_conditions": [
+      "Depression",
+      "Low Confidence",
+      "Lack of Motivation",
+      "Eating Disorder",
+      "Addiction Recovery"
+    ],
+    "contraindications": [
+      "Anxiety",
+      "Hypertension"
+    ]
+  },
+  {
+    "raga_name": "Madhuvanti",
+    "arousal_level": 0.48,
+    "valence": 0.78,
+    "stress_reduction": 0.8,
+    "sleep_induction": 0.55,
+    "pain_relief": 0.68,
+    "focus_enhancement": 0.75,
+    "emotional_stability": 0.8,
+    "therapy_evidence_score": 0.8,
+    "target_conditions": [
+      "Depression",
+      "Anxiety",
+      "Fatigue",
+      "Spring Depression",
+      "Low Mood"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Des",
+    "arousal_level": 0.5,
+    "valence": 0.8,
+    "stress_reduction": 0.78,
+    "sleep_induction": 0.6,
+    "pain_relief": 0.65,
+    "focus_enhancement": 0.72,
+    "emotional_stability": 0.8,
+    "therapy_evidence_score": 0.77,
+    "target_conditions": [
+      "Depression",
+      "Nostalgia",
+      "Identity Issues",
+      "Social Disconnection",
+      "ADHD"
+    ],
+    "contraindications": []
+  },
+  {
+    "raga_name": "Brindavani Sarang",
+    "arousal_level": 0.52,
+    "valence": 0.8,
+    "stress_reduction": 0.75,
+    "sleep_induction": 0.48,
+    "pain_relief": 0.65,
+    "focus_enhancement": 0.78,
+    "emotional_stability": 0.78,
+    "therapy_evidence_score": 0.79,
+    "target_conditions": [
+      "Depression",
+      "Autism Spectrum",
+      "Childhood Trauma",
+      "Social Anxiety",
+      "ADHD"
+    ],
+    "contraindications": []
+  }
+]
