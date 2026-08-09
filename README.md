@@ -90,6 +90,10 @@ and others cited in the paper), with numerical scores assigned by the
 authors as relative, computationally usable rankings rather than clinically
 measured values — this limitation is discussed in the paper.
 
+
+## Project link
+https://raga-therapy-db.vercel.app/
+
 ## Citation
 
 If you use this knowledge base, scoring engine, or code, please cite the
