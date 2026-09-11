@@ -3,8 +3,8 @@
 A self-contained, working re-implementation of the paper's methodology
 (Section 4: Multi-Factor Scoring Engine; Section 6: Experimental Setup).
 Added because the original Colab orchestration files referenced by
-`notebooks/run_local.py` were lost prior to archiving — see the
-repository root `README.md` for the full explanation.
+`notebooks/run_local.py` were lost prior to archiving — see `SETUP_GUIDE.md`
+for the supported ways to run this project.
 
 ## Files
 
