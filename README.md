@@ -20,7 +20,10 @@ Generalization in Music Therapy Recommendation."*
   stability need, focus need, energy level, pain level) plus an NLP keyword
   set.
 - **Hybrid NLP layer** combining keyword/n-gram matching with Sentence-BERT
-  semantic similarity to detect conditions from natural-language input.
+  semantic similarity to detect conditions from natural-language input
+  (Sentence-BERT stage described in `reports/README.md` Section 4.1; the
+  deployed web app and Streamlit dashboard currently run the keyword/n-gram
+  layer only).
 - **Five-factor scoring engine** (relaxation matching, emotional stability,
   therapeutic evidence, acoustic match, condition similarity) with an
   absolute safety layer that zeroes out any r̄aga contraindicated for a
